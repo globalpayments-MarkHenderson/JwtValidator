@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtValidator", "JwtValidator\JwtValidator.csproj", "{5C30E42E-EF86-48B3-96F7-7B4F5053E3C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2719451A-908B-44FF-B6AE-80F2C1A9B32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C30E42E-EF86-48B3-96F7-7B4F5053E3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C30E42E-EF86-48B3-96F7-7B4F5053E3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C30E42E-EF86-48B3-96F7-7B4F5053E3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C30E42E-EF86-48B3-96F7-7B4F5053E3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB1F5E0-C3A8-4710-AD8F-78AFCC893374}
+	EndGlobalSection
+EndGlobal
